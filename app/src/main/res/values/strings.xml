@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">comic villains</string>
+    <string name="thanos">Thanos-The Mad Titan was the most powerful villain depicted in Marvel universe till now. The conqueror of all Six Infinity Stones and was successful in his plans before the time travel executed in the Endgame.</string>
+    <string name="villain1_name">THANOS</string>
+    <string name="villain2_name">GORR-The God Butcher</string>
+    <string name="Gorr">Gorr, the villain in the movie Thor: Love and Thunder. As the name suggests Gorr stands to kill all Gods "All Gods must die".</string>
+    <string name="villain3_name">WENVU</string>
+    <string name = "Wenvu">Wenvu ,the master of the Ten Rings appeared first in the movie Shang Chi and the Legend of Ten Rings.He wanted to release his wife from the hands of evil disregarding about safety of the world as we know it.</string>
+    <string name="villain4">BANE</string>
+    <string name="Bane">Bane, the villain in the movie Batman-The Dark Knight Rises possesed immense brute strength. He was also a brilliant tactician and strategist and was the cause of downfall of Batman in the movie.</string>
+    <string name="villain5">DARKSEID</string>
+    <string name="darkseid">Darkseid,a God,was the villain in the DC\'s Justice League where he wanted to take control of mother boxes to rule over the world.</string>
+    <string name="villain6">HELA</string>
+    <string name="hela">Hela,the daughter of Odin and sister of Thor appears in Thor:Ragnarok.She turns evil and wanted to take control of Asgard and Other realms after that.</string>
+    <string name="villain7">JOKER</string>
+    <string name="joker">Joker, one ofthe most iconic villains of all time played by Heath Ledger(a performance of a lifetime).He appeared in Batman-The Dark Knight and made the people of Gotham hate their own heroes using his wit and evil mind.</string>
+    <string name="villain8">KILLMONGER</string>
+    <string name="killmonger">Eric Killonger,villain of the movie Black Panther was a highly skilled soldier and murdered loads of people before getting the chance to challenge T\'Challa, the then king of Wakanda for the throne and getting it all for his revenge.</string>
+    <string name="villain9">LOKI</string>
+    <string name="loki">One of the most liked villain or shall we say anti-hero.He made appearances multiple movies in the Marvel Universe and also in his own TV series. He had skills to control mind of others and had an ability of shape shifting.</string>
+    <string name="villain10">RED SKULL</string>
+    <string name="redskull">Red Skull, the villain in the Captain America The First Avenger. He was a German super soldier who was sent to Vormir, where he became a stone keeper of the Soul Stone</string>
+    <string name="villain11">RIDDLER</string>
+    <string name="riddler">Riddler(Edward Nigma),the famous villain first appeared in the laltets investment of Batman(Robert Pattinson).He was a typical Gotham villain killing people for fun and revenge and obviously wanting to kill Batman</string>
+    <string name="villain12">ULTRON</string>
+    <string name="ultron">Ultron ,creation of Tony Stark(Iron Man) and Bruce Banner was the villain in the Avengers: Age of Ultron. He wanted to achieve world peace by killing the Avengers and destroying its population.</string>
+</resources>
